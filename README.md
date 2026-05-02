@@ -1,4 +1,4 @@
-# game
+# dungeon and dragons
 building a game for the first time 
 
 this has gotten me keen about game dev
